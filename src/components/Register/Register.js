@@ -24,23 +24,7 @@ class Register extends React.Component{
 
     onSubmitRegister = () => {
         const { email, password, name } = this.state
-    //     fetch('http://localhost:3333/register', {
-    //         method: 'post',
-    //         headers: {'Content-Type': 'application/json'},
-    //         body: JSON.stringify({
-    //             email,
-    //             password,
-    //             name
-    //         })
-    //     })
-    //         .then(response => response.json())
-    //         .then(user => {
-    //             if (user.id){
-    //                 this.props.loadUser(user)
-    //                 this.props.onRouteChange('home');
-    //             }
-    //         });
-    // }
+ 
         localStorage.setItem('name', name);
         localStorage.setItem('email', email);
         localStorage.setItem('password', password);
