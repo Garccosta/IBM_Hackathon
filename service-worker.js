@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IBM_Hackathon/precache-manifest.ad04b49dfacd20a6baffa37857c601c8.js"
+  "/IBM_Hackathon/precache-manifest.16c56ed2be9ee4fafd9a59a5c21a9def.js"
 );
 
 self.addEventListener('message', (event) => {

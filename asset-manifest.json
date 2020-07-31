@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/IBM_Hackathon/static/css/main.5fc48634.chunk.css",
-    "main.js": "/IBM_Hackathon/static/js/main.66802620.chunk.js",
-    "main.js.map": "/IBM_Hackathon/static/js/main.66802620.chunk.js.map",
-    "runtime-main.js": "/IBM_Hackathon/static/js/runtime-main.88fb7102.js",
-    "runtime-main.js.map": "/IBM_Hackathon/static/js/runtime-main.88fb7102.js.map",
+    "main.css": "/IBM_Hackathon/static/css/main.692b9266.chunk.css",
+    "main.js": "/IBM_Hackathon/static/js/main.75c48196.chunk.js",
+    "main.js.map": "/IBM_Hackathon/static/js/main.75c48196.chunk.js.map",
+    "runtime-main.js": "/IBM_Hackathon/static/js/runtime-main.080f0cc0.js",
+    "runtime-main.js.map": "/IBM_Hackathon/static/js/runtime-main.080f0cc0.js.map",
     "static/css/2.3c03f26f.chunk.css": "/IBM_Hackathon/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.175635e0.chunk.js": "/IBM_Hackathon/static/js/2.175635e0.chunk.js",
-    "static/js/2.175635e0.chunk.js.map": "/IBM_Hackathon/static/js/2.175635e0.chunk.js.map",
+    "static/js/2.e0adcff1.chunk.js": "/IBM_Hackathon/static/js/2.e0adcff1.chunk.js",
+    "static/js/2.e0adcff1.chunk.js.map": "/IBM_Hackathon/static/js/2.e0adcff1.chunk.js.map",
     "index.html": "/IBM_Hackathon/index.html",
-    "precache-manifest.ad04b49dfacd20a6baffa37857c601c8.js": "/IBM_Hackathon/precache-manifest.ad04b49dfacd20a6baffa37857c601c8.js",
+    "precache-manifest.16c56ed2be9ee4fafd9a59a5c21a9def.js": "/IBM_Hackathon/precache-manifest.16c56ed2be9ee4fafd9a59a5c21a9def.js",
     "service-worker.js": "/IBM_Hackathon/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/IBM_Hackathon/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.5fc48634.chunk.css.map": "/IBM_Hackathon/static/css/main.5fc48634.chunk.css.map",
-    "static/js/2.175635e0.chunk.js.LICENSE.txt": "/IBM_Hackathon/static/js/2.175635e0.chunk.js.LICENSE.txt"
+    "static/css/main.692b9266.chunk.css.map": "/IBM_Hackathon/static/css/main.692b9266.chunk.css.map",
+    "static/js/2.e0adcff1.chunk.js.LICENSE.txt": "/IBM_Hackathon/static/js/2.e0adcff1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.88fb7102.js",
+    "static/js/runtime-main.080f0cc0.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.175635e0.chunk.js",
-    "static/css/main.5fc48634.chunk.css",
-    "static/js/main.66802620.chunk.js"
+    "static/js/2.e0adcff1.chunk.js",
+    "static/css/main.692b9266.chunk.css",
+    "static/js/main.75c48196.chunk.js"
   ]
 }
