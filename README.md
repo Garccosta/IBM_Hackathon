@@ -9,19 +9,20 @@
 
 ## To run it locally:
 
-#1. Clone the repo:
+
+# 1. Clone the repo:
 
 ```
 git clone https://github.com/Garccosta/IBM_Hackathon.git
 ```
 
-#2. Install the node modules/dependencies:
+# 2. Install the node modules/dependencies:
 
 ```
 npm install
 ```
 
-#3. Finally, run the project:
+# 3. Finally, run the project:
 
 ```
 npm start
