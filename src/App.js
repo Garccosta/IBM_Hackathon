@@ -1,3 +1,5 @@
+// MADE BY @garccosta
+
 import React, { Component } from 'react';
 import Navigation from './components/Navigation/Navigation';
 import Particles from 'react-particles-js';
