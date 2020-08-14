@@ -10,10 +10,7 @@ class SignIn extends React.Component {
     }
 
     onSubmitSignIn = () => {
-
-    window.location.href = 'https://westforce.mybluemix.net/'; 
-    return null;
-
+    window.location.href = 'https://www.ibm.com/br-pt/cloud'; 
     }
 
     onEmailChange = (event) => {
